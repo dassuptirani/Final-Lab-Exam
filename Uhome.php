@@ -18,7 +18,7 @@
 <div id="d">
 
 
-<form action="home.php" method"POST" align="center">
+<form action="home.php" method="POST" align="center">
 <a href="Profile.php">Profile</a><br><br>
 <a href="AChangePass.php">Change Password</a><br> <br>
 <a href="AViewUsers.php">View Users</a><br><br>
